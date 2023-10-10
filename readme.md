@@ -1,4 +1,4 @@
-# This is My C++ Project Student Managment System useing File Handling in C++
+# This is my C++ project, a Student Management System using file handling in C++.
 
 <p align="center">
 
